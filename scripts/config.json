@@ -1,0 +1,13 @@
+{
+    "models": [
+        {
+            "enabled": true,
+            "model_name": "Cases",
+            "model": {
+                "type": "regression",
+                "polynomial_degree": 5
+            },
+            "days_to_predict": 10
+        }
+    ]
+}
